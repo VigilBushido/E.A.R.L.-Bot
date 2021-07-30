@@ -5,5 +5,5 @@ view rawgif_example hosted with ❤ by GitHub
 object tracking robot , with 1 eye
 
 #### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username={VigilBushido}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VigilBushido&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
